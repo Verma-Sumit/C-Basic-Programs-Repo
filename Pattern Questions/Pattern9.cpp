@@ -8,6 +8,7 @@ pattern to be printed:
 4 5 6
 7 8 9 10
 for n = 4 .
+This is called FLOYD'S TRIANGLE
 */
 cout <<"Enter the value of n: ";
 int n;
